@@ -1,0 +1,9 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    int retangulo_A = 5;
+	    int retangulo_B = 5;
+	    System.out.println("Vamos somar o valor do retangulo_A : "+ retangulo_A + " valor do retangulo_B :" + retangulo_B);
+		System.out.println("Resultado da Soma :"+(retangulo_A+retangulo_B));
+	}
+}
